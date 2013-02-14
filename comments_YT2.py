@@ -1,7 +1,7 @@
 from gdata.youtube import service
 
 USERNAME = 'amar.kris@gmail.com'
-PASSWORD = 'tirupatitirupati1!!'
+PASSWORD = '*******************'
 VIDEO_ID = 'HTjgqJDaRJI'
 
 def comments_generator(client, video_id):
