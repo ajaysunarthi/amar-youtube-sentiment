@@ -11,8 +11,8 @@ if len(sys.argv)!= 2:
 youtube_watchurl=sys.argv[1]; 
 VIDEO_ID= parse_qs(urlparse(youtube_watchurl).query)['v'][0]; 	
 
-USERNAME = 'amar.kris@gmail.com'
-PASSWORD = 'tirupatitirupati1!!'
+USERNAME = 'xyz@gmail.com'
+PASSWORD = 'gmail_passwd'
 """VIDEO_ID = 'pdcwbQa7S5E'"""
 
 def comments_generator(client, video_id):
